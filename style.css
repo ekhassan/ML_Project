@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+/* https://undraw.co/search  search(UX) for more illustration*/
+
+html::-webkit-scrollbar
+{
+    display: none;
+}
+
+html
+{
+    background-color: #6a66a327;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+.color {
+  color: #ddd8b8; 
+  color: #b3cbb9;
+  color: #84a9c0;
+  color: #6a66a3;
+  color: #542e71;
+}
+/* extras */
+.bg
+{
+    background-color: #653788;
+}
+.bg-footer
+{
+    background-color: #542e71   ;
+}
+.bg-25
+{
+    background-color: #6a66a327;
+}
+.btn
+{
+    background-color: #542e71;
+    color: white;
+    outline: none;
+    border: none;
+}
+.btn:hover
+{
+    background-color: #653788;
+    color: white;
+}
+/* navbar */
+.navbar-brand
+{
+    font-weight: bold;
+}
+/* Main */
+
+/* Footer */
+span
+{
+    font-weight: 600;
+}
